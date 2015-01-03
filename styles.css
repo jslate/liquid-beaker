@@ -1,0 +1,8 @@
+img {
+	position: absolute;
+}
+canvas {
+	padding-left: 150px;
+	padding-top: 200px;
+	height: 400px;
+}

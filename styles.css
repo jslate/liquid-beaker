@@ -6,3 +6,14 @@ canvas {
 	padding-top: 200px;
 	height: 400px;
 }
+.heading {
+	font-family: verdana;
+	font-size: 30px;
+	margin: 10px;
+}
+.paragraph {
+	font-family: verdana;
+	font-size: 24px;
+	margin: 10px;
+	text-indent: 50px;
+}
